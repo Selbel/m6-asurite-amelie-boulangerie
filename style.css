@@ -68,7 +68,7 @@ main ul{
 }
 main p{
     margin-left:32px;
-    display:inline;
+    display:inline-block;
     width:50%;
 }
 address{
