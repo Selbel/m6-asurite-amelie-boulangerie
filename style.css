@@ -24,7 +24,7 @@ h1{
 }
 #grid-container{
 width:1000px;
-align-content:center;
+margin:auto;
 background-color:#fdfdfd;
 display:grid;
 grid-template-columns:184px 1fr;
