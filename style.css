@@ -26,7 +26,8 @@ width:1000px;
 margin:auto;
 background-color:#fdfdfd;
 display:grid;
-grid-template-columns:1.5fr 5fr;
+grid-template-columns:184fr 1fr;
+gap:0 16px;
 }
 nav{
     width:150px;
