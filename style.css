@@ -26,7 +26,7 @@ width:1000px;
 margin:auto;
 background-color:#fdfdfd;
 display:grid;
-grid-template-columns:184fr 1fr;
+grid-template-columns:184px 1fr;
 gap:0 16px;
 }
 nav{
@@ -39,12 +39,12 @@ nav li{
 }
 nav a{
     display:block;
-    background-color:#141a1a;
-    color:#fff;
+    background-color:#e0e5de;
+    color:#141a1a;
     padding:16px;
     text-align:center;
-    margin-top:18px;
-    margin-bottom:18px;
+    margin-top:8px;
+    margin-bottom:8px;
     margin-left:auto;
     margin-right:auto;
     text-decoration-line:none;
