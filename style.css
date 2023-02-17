@@ -22,7 +22,7 @@ h1{
     padding-left:32px;
     
 }
-.grid-container{
+#grid-container{
 width:1000px;
 align-content:center;
 background-color:#fdfdfd;
