@@ -61,18 +61,17 @@ main img{
     float:left;
 }
 
-main p ul{
+main ul{
     display:inline-block;
     width:50%;
+    margin-left:16px;
 }
 main p{
     margin-left:32px;
-}
-main ul{
-    margin-left:16px;
+    display:inline-block;
+    width:50%;
 }
 address{
-    float:none;
     clear:both;
     padding-top:16px;
 }
