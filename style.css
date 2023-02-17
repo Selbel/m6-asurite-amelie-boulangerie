@@ -13,6 +13,7 @@ header{
     background-color:#141a1a;
     height:150px;
     background-image:url("bowl.jpg");
+    background-repeat:no-repeat;
     color:#fff;
 }
 h1{
@@ -21,7 +22,7 @@ h1{
     padding-left:32px;
     
 }
-grid-container{
+.grid-container{
 width:1000px;
 margin:auto;
 background-color:#fdfdfd;
@@ -42,7 +43,6 @@ nav a{
     background-color:#e0e5de;
     color:#141a1a;
     padding:16px;
-    text-align:center;
     margin-top:8px;
     margin-bottom:8px;
     margin-left:auto;
@@ -62,13 +62,13 @@ main img{
 }
 
 main ul{
-    display:inline-block;
+    display:inline;
     width:50%;
     margin-left:16px;
 }
 main p{
     margin-left:32px;
-    display:inline-block;
+    display:inline;
     width:50%;
 }
 address{
