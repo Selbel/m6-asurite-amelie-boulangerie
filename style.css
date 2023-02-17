@@ -7,7 +7,7 @@ body{
 }
 header, footer{
     width:1000px;
-    text-align:center;
+    margin:auto;
 }
 header{
     background-color:#141a1a;
@@ -62,7 +62,7 @@ main img{
 }
 
 main ul{
-    display:inline;
+    display:inline-block;
     width:50%;
     margin-left:16px;
 }
